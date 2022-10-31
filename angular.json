@@ -107,7 +107,6 @@
       }
     }
   },
-  "defaultProject": "heroes",
   "cli": {
     "analytics": false
   }
